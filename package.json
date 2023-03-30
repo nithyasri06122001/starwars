@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "node-sass": "^8.0.0",
+    "scss": "^0.2.4"
+  },
+  "name": "starwars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass main.scss style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
